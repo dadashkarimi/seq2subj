@@ -6,5 +6,5 @@
   ![alt text](https://raw.githubusercontent.com/javiddadashkarimi/seq2subj/master/fig/lstm.svg?sanitize=true)
   
   ![Alt text](https://raw.githubusercontent.com/javiddadashkarimi/seq2subj/master/fig/lstm.svg)
-<img src="https://raw.githubusercontent.com/javiddadashkarimi/seq2subj/master/fig/lstm.svg">
+<img src="https://raw.githubusercontent.com/javiddadashkarimi/seq2subj/master/fig/lstm.svg?sanitize=true">
 
