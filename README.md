@@ -4,4 +4,7 @@
 <p align="center"><img width="70%" src="https://raw.githubusercontent.com/javiddadashkarimi/seq2subj/master/fig/lstm.svg"/> </p>
 
   ![alt text](https://raw.githubusercontent.com/javiddadashkarimi/seq2subj/master/fig/lstm.svg)
+  
+  ![Alt text](https://raw.githubusercontent.com/javiddadashkarimi/seq2subj/master/fig/lstm.svg)
+<img src="https://raw.githubusercontent.com/javiddadashkarimi/seq2subj/master/fig/lstm.svg">
 
