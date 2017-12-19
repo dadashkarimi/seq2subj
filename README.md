@@ -3,7 +3,7 @@
 3. Long short memory is the basic encoding unit to this aim.
 [embed]https://github.com/javiddadashkarimi/seq2subj/blob/master/fig/lstm.pdf[/embed]
 
-![alt text](seq2subj/fig/lstm.pdf)
+![alt text](http://dadashkarimi.com/files/lstm.pdf)
 
   <meta name="referrer" content="never">
     <script src="/assets/pdf-2ec826331995dab394be3e872a18fb5d.js"></script><link rel="stylesheet" href="/assets/pdf-cf9d7e1cd14c0eeb4efd0f7fac3b310f.css">
