@@ -2,7 +2,7 @@
 2. We are using basic recurrent neoral networks for sequence modling subject information.
 3. Long short memory is the basic encoding unit to this aim.
 
-![alt text](https://github.com/javiddadashkarimi/seq2subj/blob/master/fig/lstm.pdf)
+![alt text](seq2subj/fig/lstm.pdf)
 
 
   <object width="400" height="500" type="application/pdf" data="https://github.com/javiddadashkarimi/seq2subj/blob/master/fig/lstm.pdf" id="pdf_content">
