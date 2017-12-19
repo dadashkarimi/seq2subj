@@ -5,6 +5,6 @@
 <p align="center">
   <img width="60%" src="https://raw.githubusercontent.com/javiddadashkarimi/seq2subj/master/fig/lstm.jpg">
 </p>
-  <em align="center">Fig. 1 A LSTM gate. Bidirectional LSTM has a couple of these units.</em>
+  <p align="center">Fig. 1 A LSTM gate. Bidirectional LSTM has a couple of these units.</p>
 
 
